@@ -1,7 +1,7 @@
 {
   "feed": "whale-alerts",
   "provider": "andan-crypto",
-  "price_stx": 0.0025,
+  "price_stx": 0.005,
   "timestamp": "2026-06-08T02:06:00Z",
   "data": {
     "alerts": [
