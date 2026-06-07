@@ -1,0 +1,14 @@
+{
+  "feed": "token-launches",
+  "provider": "andan-crypto",
+  "price_stx": 0.005,
+  "timestamp": "2026-06-08T02:10:00Z",
+  "data": {
+    "launches": [
+      {"chain": "Solana", "name": "PEPE2.0", "dex": "Raydium", "liquidity": "$125K", "age": "2 hours", "holders": 847, "risk": "high"},
+      {"chain": "Base", "name": "AIDOGE", "dex": "Uniswap V3", "liquidity": "$89K", "age": "45 min", "holders": 234, "risk": "medium"},
+      {"chain": "Ethereum", "name": "MOONCAT", "dex": "SushiSwap", "liquidity": "$210K", "age": "4 hours", "holders": 1205, "risk": "low"}
+    ],
+    "stats": {"total_24h": 156, "avg_liquidity": "$67K", "survival_rate": "12%"}
+  }
+}

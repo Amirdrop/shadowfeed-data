@@ -1,0 +1,13 @@
+{
+  "feed": "gas-tracker",
+  "provider": "andan-crypto",
+  "price_stx": 0.003,
+  "timestamp": "2026-06-08T02:10:00Z",
+  "data": {
+    "ethereum": {"gwei": 12, "priority": "low", "trend": "stable"},
+    "base": {"gwei": 0.001, "priority": "low", "trend": "stable"},
+    "arbitrum": {"gwei": 0.01, "priority": "low", "trend": "down"},
+    "solana": {"lamports": 5000, "priority": "low", "trend": "stable"},
+    "recommendation": "Good time to transact on all chains"
+  }
+}

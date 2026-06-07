@@ -1,0 +1,13 @@
+{
+  "feed": "liquidation-alerts",
+  "provider": "andan-crypto",
+  "price_stx": 0.008,
+  "timestamp": "2026-06-08T02:10:00Z",
+  "data": {
+    "alerts": [
+      {"protocol": "Aave", "chain": "Ethereum", "asset": "ETH", "amount": "350 ETH", "price": "$1,820", "health": 1.05},
+      {"protocol": "Compound", "chain": "Base", "asset": "cbETH", "amount": "120 cbETH", "price": "$1,815", "health": 1.08}
+    ],
+    "stats": {"total_24h": 23, "volume": "$2.1M", "risk_level": "low"}
+  }
+}
