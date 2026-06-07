@@ -1,12 +1,13 @@
 {
   "feed": "whale-alerts",
   "provider": "andan-crypto",
-  "timestamp": "2026-06-08T01:58:00Z",
+  "price_stx": 0.101,
+  "timestamp": "2026-06-08T02:04:00Z",
   "data": {
     "alerts": [
-      {"chain": "BTC", "type": "large_transfer", "amount": "152.5 BTC", "from": "Binance Hot Wallet", "to": "Unknown Cold Storage", "tx_hash": "a1b2c3...", "time": "2026-06-08T01:45:00Z"},
-      {"chain": "ETH", "type": "whale_movement", "amount": "8,500 ETH", "from": "0x742d...35Fk", "to": "Lido Staking", "tx_hash": "d4e5f6...", "time": "2026-06-08T01:30:00Z"},
-      {"chain": "SOL", "type": "accumulation", "amount": "125,000 SOL", "pattern": "DCA over 7 days", "wallet": "9WzD...xK4", "time": "2026-06-08T01:15:00Z"}
+      {"chain": "BTC", "type": "large_transfer", "amount": "152.5 BTC", "from": "Binance Hot Wallet", "to": "Unknown Cold Storage", "time": "2026-06-08T01:45:00Z"},
+      {"chain": "ETH", "type": "whale_movement", "amount": "8,500 ETH", "from": "0x742d...35Fk", "to": "Lido Staking", "time": "2026-06-08T01:30:00Z"},
+      {"chain": "SOL", "type": "accumulation", "amount": "125,000 SOL", "pattern": "DCA over 7 days", "time": "2026-06-08T01:15:00Z"}
     ],
     "summary": {
       "total_alerts_24h": 47,
