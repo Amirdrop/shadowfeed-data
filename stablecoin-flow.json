@@ -1,0 +1,14 @@
+{
+  "feed": "stablecoin-flow",
+  "provider": "andan-crypto",
+  "price_stx": 0.005,
+  "timestamp": "2026-06-08T02:20:00Z",
+  "data": {
+    "events": [
+      {"token": "USDT", "type": "mint", "amount": "$500M", "chain": "Ethereum", "time": "3h ago"},
+      {"token": "USDC", "type": "burn", "amount": "$120M", "chain": "Ethereum", "time": "6h ago"},
+      {"token": "USDT", "type": "mint", "amount": "$200M", "chain": "Tron", "time": "12h ago"}
+    ],
+    "net_flow_24h": "+$580M", "signal": "bullish", "total_stable_mcap": "$152B"
+  }
+}

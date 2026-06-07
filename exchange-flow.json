@@ -1,0 +1,12 @@
+{
+  "feed": "exchange-flow",
+  "provider": "andan-crypto",
+  "price_stx": 0.008,
+  "timestamp": "2026-06-08T02:20:00Z",
+  "data": {
+    "btc": {"inflow": "12,500 BTC", "outflow": "15,200 BTC", "net": "-2,700 BTC", "signal": "bullish"},
+    "eth": {"inflow": "85,000 ETH", "outflow": "92,000 ETH", "net": "-7,000 ETH", "signal": "bullish"},
+    "sol": {"inflow": "2.5M SOL", "outflow": "1.8M SOL", "net": "+700K SOL", "signal": "bearish"},
+    "top_exchange_outflow": "Binance", "top_exchange_inflow": "Coinbase"
+  }
+}

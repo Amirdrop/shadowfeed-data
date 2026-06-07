@@ -1,0 +1,14 @@
+{
+  "feed": "dex-volume",
+  "provider": "andan-crypto",
+  "price_stx": 0.005,
+  "timestamp": "2026-06-08T02:20:00Z",
+  "data": {
+    "anomalies": [
+      {"dex": "Uniswap", "pair": "PEPE/ETH", "volume_24h": "$45M", "change": "+320%", "alert": "volume_spike"},
+      {"dex": "Raydium", "pair": "BONK/SOL", "volume_24h": "$28M", "change": "+180%", "alert": "volume_spike"},
+      {"dex": "PancakeSwap", "pair": "CAKE/BNB", "volume_24h": "$12M", "change": "-45%", "alert": "volume_drop"}
+    ],
+    "total_dex_volume_24h": "$8.2B", "trend": "increasing"
+  }
+}

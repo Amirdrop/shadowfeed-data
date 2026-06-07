@@ -1,0 +1,14 @@
+{
+  "feed": "smart-money",
+  "provider": "andan-crypto",
+  "price_stx": 0.01,
+  "timestamp": "2026-06-08T02:20:00Z",
+  "data": {
+    "wallets": [
+      {"label": "Whale #1", "address": "0x742d...35Fk", "chain": "ETH", "action": "buying", "token": "ETH", "amount": "2,500 ETH", "time": "2h ago"},
+      {"label": "Fund A", "address": "3FZbgi...xK4", "chain": "BTC", "action": "accumulating", "token": "BTC", "amount": "180 BTC", "time": "5h ago"},
+      {"label": "Smart Money", "address": "0x8f3a...9Bc", "chain": "BASE", "action": "selling", "token": "DEGEN", "amount": "5M DEGEN", "time": "1h ago"}
+    ],
+    "sentiment": "bullish", "top_buy": "ETH", "top_sell": "SOL"
+  }
+}
