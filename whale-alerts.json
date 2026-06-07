@@ -1,8 +1,8 @@
 {
   "feed": "whale-alerts",
   "provider": "andan-crypto",
-  "price_stx": 0.101,
-  "timestamp": "2026-06-08T02:04:00Z",
+  "price_stx": 0.0025,
+  "timestamp": "2026-06-08T02:06:00Z",
   "data": {
     "alerts": [
       {"chain": "BTC", "type": "large_transfer", "amount": "152.5 BTC", "from": "Binance Hot Wallet", "to": "Unknown Cold Storage", "time": "2026-06-08T01:45:00Z"},
